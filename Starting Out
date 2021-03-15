@@ -1,12 +1,27 @@
 <id="main">
+    <style>
+        hr {
+            display: block;
+            margin-top: 0.5em;
+            margin-bottom: 0.5em;
+            margin-left: auto;
+            margin-right: auto;
+            border-style: inset;
+            border-width: 1px;
+        }
+    </style>
+    </style>
 
     <id="Eartha Kitt">
 
         <h1>All About Eartha Kitt.</h1>
 
         <p>A bombshell of a woman, american singer, actress and the infamous Catwoman in the 1960s series <i>Batman</i>.</p>
+        <figure id="img-div">
+            <img id="image" src="https://prod-images.tcm.com/Master-Profile-Images/EarthaKitt.jpg?w=824" alt="Isn't she so wonderful and beautiful? I love this classic photo of her." />
+
+            <hr>
 
 
-
-        </id>
-        </id>
+            </id>
+            </id>
