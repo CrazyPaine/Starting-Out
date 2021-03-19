@@ -33,8 +33,8 @@ This will be about my first project:
 Gathering more information about Eartha Kitt, and typing everything I can think of while referencing.
 Update: God this is a lot of information. I'm almost done.
 
-User Story #7: I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").
+✅User Story #7: I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").
 
-User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
+✅User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
-User Story #9: The img element should be centered within its parent element.
+✅User Story #9: The img element should be centered within its parent element.

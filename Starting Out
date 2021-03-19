@@ -10,7 +10,6 @@
             border-width: 1px;
         }
     </style>
-    </style>
 
     <id="Eartha Kitt">
 
@@ -18,11 +17,9 @@
 
         <p>A bombshell of a woman, american singer, actress and the infamous Catwoman in the 1960s series <i>Batman</i>.</p>
         <figure id="img-div">
-            <img id="image" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/photo-of-eartha-kitt-photo-by-michael-ochs-archives-getty-news-photo-1610585013.?crop=1xw:1xh;center,top&resize=980:" alt="Isn't she so wonderful and beautiful? I love this classic photo of her."
-            />
+            <img id="image" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-3208729-1560194633.jpg?crop=1.00xw:0.629xh;0,0.0382xh&resize=980:*" alt="Isn't she so wonderful and beautiful? I love this classic photo of her." />
             <hr>
             <figcaption id="img-caption"><strong><h5>1970</h5></strong>
-                <br>
                 <p>Kitt did not even know her own birthday until later in life which she is donned in a strapless gown in a portrait shoot that huge and accentuates her beautiful figure.</p>
             </figcaption>
         </figure>
@@ -66,9 +63,14 @@
                         <strong>2007</strong> - In August 2007, Kitt served as the face of MAC Cosmetics' Smoke Signals collection. For the reason, she re-recorded "Smoke Gets in Your Eyes," which was featured on the MAC website and performed at all MAC
                         stores carrying the set for the month. In 2007, she starred alongside Vanessa Williams in the indie film <i>And Then Came Love</i>.That same year, she won a Daytime Emmy Award for her vocal work on the animated children's series
                         <i>The Emperor's New School</i>, which she repeated in 2007.</li>
-
-
+                    <li>
+                        <strong>2008</strong> - On December 25, 2008, she succumbed to colon cancer.</li>
             </ul>
+            <blockquote cite="https://earthakitt.com/kittisms/">
+                <p>"Just because you are different doesn't mean you have to be rejected."</p> <cite>-- Eartha Kitt</cite>
+            </blockquote>
+            <h3>If you have the time, learn more about her and her great accomplishments she has done <a id="tribute-link" href="https://en.wikipedia.org/wiki/Eartha_Kitt" target="_blank">Wikipedia entry</a>.
+            </h3>
         </section>
         </id>
         </id>
