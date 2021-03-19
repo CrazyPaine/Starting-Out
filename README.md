@@ -18,6 +18,7 @@ Things to remember whenever I'm coding:
 
 More about the CODE:
 This will be about my first project:
+
 ✅User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
 ✅User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").

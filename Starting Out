@@ -18,10 +18,17 @@
 
         <p>A bombshell of a woman, american singer, actress and the infamous Catwoman in the 1960s series <i>Batman</i>.</p>
         <figure id="img-div">
-            <img id="image" src="https://prod-images.tcm.com/Master-Profile-Images/EarthaKitt.jpg?w=824" alt="Isn't she so wonderful and beautiful? I love this classic photo of her." />
-
+            <img id="image" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/photo-of-eartha-kitt-photo-by-michael-ochs-archives-getty-news-photo-1610585013.?crop=1xw:1xh;center,top&resize=980:" alt="Isn't she so wonderful and beautiful? I love this classic photo of her."
+            />
             <hr>
+            <figcaption id="img-caption"><strong><h5>1970</h5></strong>
+                <br>
+                <p>Kitt did not even know her own birthday until later in life which she is donned in a strapless gown in a portrait shoot that huge and accentuates her beautiful figure.</p>
+            </figcaption>
+        </figure>
+        <section id="tribute info">
+            <h4 id </section>
 
 
-            </id>
-            </id>
+                </id>
+                </id>
