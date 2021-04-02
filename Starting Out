@@ -1,4 +1,4 @@
-<id="main">
+<main id="main">
     <style>
         hr {
             display: block;
@@ -13,7 +13,7 @@
 
     <id="Eartha Kitt">
 
-        <h1>All About Eartha Kitt.</h1>
+        <h1 id="title">All About Eartha Kitt.</h1>
 
         <p>A bombshell of a woman, american singer, actress and the infamous Catwoman in the 1960s series <i>Batman</i>.</p>
         <figure id="img-div">
@@ -23,7 +23,7 @@
                 <p>Kitt did not even know her own birthday until later in life which she is donned in a strapless gown in a portrait shoot that huge and accentuates her beautiful figure.</p>
             </figcaption>
         </figure>
-        <section id="tribute info">
+        <section id="tribute-info">
             <h4 id="headline">Significances In Eartha Kitt Life:</h4>
             <ul>
                 <li>
